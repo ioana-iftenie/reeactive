@@ -1,0 +1,48 @@
+A content management system (CMS) is a computer application that allows publishing, editing and modifying content, organizing, deleting as well as maintenance from a central interface. Such systems of content management provide procedures to manage workflow in a collaborative environment. These procedures can be manual steps or an automated cascade. 
+
+CMSs are often used to run websites containing blogs, news, and shopping. Many corporate and marketing websites use CMSs. CMSs typically aim to avoid the need for hand coding, but may help it for specific elements or entire pages.
+
+Reeactive 
+Reeactive will be a content management system. This application will allow users to create websites and administrate them. The users can create their websites from scratch, or use a pre-defined template. Either of the mentioned options allows users to modify the content.
+
+Proiectul va fi o aplicatie web de tip CMS. Acesta va permite crearea de sit-uri web si administrarea acestora. Utilizatorul va putea crea de la zero un sit sau va putea folosi un template deja existent. Indiferent de alegerea utilizatorului, avesta va avea posibilitatea de a modifica sit-ul creat: adaugarea sau eliminare de widgenturi din meniul interactiv, adaugare de content etc sau modificarea directa a codului din spate.
+
+
+
+QOC
+1.
+Q-How can the user use the application?
+O1- User can select one of the pre-defined templates.
+	C- This is the easiest  and fastest option
+	C- Recommended for all users especially for beginners
+O2- User can select one of the pre-defined templates and modify by adding or removing elements.
+	C- If users don't want to use entirely the pre-defined templates and the want to personalize their website, this is the best option.
+	C- Recommended for users that can understand and use the admin panel.
+O3- User can create a template from scratch.
+	C- Recommended for advanced users
+	C- This is the hardest option
+Each of the above options allows users to add their personal code.
+
+2.
+Q- How does the user add content?
+ Each page will have special zones where you can add content
+ O1- Users can drag and drop elements into those zones from a list displayed on the page
+ 	C- This is the fastest way to add content
+ 	C- Friendly interface
+ O2- Users can click on one of the zones and select an element from a pop-up that appears near by.
+ 	C- This is slower because it involves clicking on the zone the user wants to add content to, wainting for the pop-up to load, selecting an element and clicking add.
+ 	C- It breaks the flow of the application.
+
+
+ 3.
+ Q- How does the user remove content?
+ O1- Each element from the special zone will have a delete button in the top right corner.
+ 	C- This is the fastest way to remove content
+ 	C- Less interaction with database
+ 	C- Friendly interface
+ O2- In the page will be a list with all the elements that the user added to content and elements can be selected from there and deleted.
+ 	C- It breaks the flow of the application.
+ 	C- More interaction with database
+ 	C- This is the slower ooption to remove content
+
+
